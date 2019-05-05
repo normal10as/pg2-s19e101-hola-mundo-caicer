@@ -9,6 +9,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "variables_tipos", "variable
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Concatenación", "Concatenación\Concatenación.vbproj", "{0757D3E5-D37A-48B8-8123-93B4A9ED32CA}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Aritmética", "Aritmética\Aritmética.vbproj", "{EBE54032-D6BE-47AB-91A0-72D7443CCF43}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cuadratica", "Cuadratica\Cuadratica.vbproj", "{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0757D3E5-D37A-48B8-8123-93B4A9ED32CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0757D3E5-D37A-48B8-8123-93B4A9ED32CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0757D3E5-D37A-48B8-8123-93B4A9ED32CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE54032-D6BE-47AB-91A0-72D7443CCF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE54032-D6BE-47AB-91A0-72D7443CCF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE54032-D6BE-47AB-91A0-72D7443CCF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE54032-D6BE-47AB-91A0-72D7443CCF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
