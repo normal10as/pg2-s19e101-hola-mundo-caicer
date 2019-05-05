@@ -15,6 +15,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cuadratica", "Cuadratica\Cu
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Suma_promedio", "Suma_promedio\Suma_promedio.vbproj", "{91F4EB79-0837-434F-93FC-B640614154A2}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "equivalencia_dias", "equivalencia_dias\equivalencia_dias.vbproj", "{772D639C-5806-40B4-B67C-CE52226B415E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{91F4EB79-0837-434F-93FC-B640614154A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F4EB79-0837-434F-93FC-B640614154A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F4EB79-0837-434F-93FC-B640614154A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772D639C-5806-40B4-B67C-CE52226B415E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772D639C-5806-40B4-B67C-CE52226B415E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772D639C-5806-40B4-B67C-CE52226B415E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772D639C-5806-40B4-B67C-CE52226B415E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
