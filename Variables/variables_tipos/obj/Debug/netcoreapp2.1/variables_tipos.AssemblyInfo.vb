@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("variables_consola"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("variables_tipos"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("variables_consola"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("variables_consola"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("variables_tipos"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("variables_tipos"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
 
 'Generado por la clase WriteCodeFragment de MSBuild.

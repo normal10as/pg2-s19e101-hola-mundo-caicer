@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e101-hola-mundo-caicer\\Variables\\variables_consola\\variables_consola.vbproj",
-      "projectName": "variables_consola",
-      "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e101-hola-mundo-caicer\\Variables\\variables_consola\\variables_consola.vbproj",
+      "projectUniqueName": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e101-hola-mundo-caicer\\Variables\\variables_tipos\\variables_tipos.vbproj",
+      "projectName": "variables_tipos",
+      "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e101-hola-mundo-caicer\\Variables\\variables_tipos\\variables_tipos.vbproj",
       "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e101-hola-mundo-caicer\\Variables\\variables_consola\\obj\\",
+      "outputPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e101-hola-mundo-caicer\\Variables\\variables_tipos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
