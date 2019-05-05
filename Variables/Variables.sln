@@ -13,6 +13,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Aritmética", "Aritmética\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cuadratica", "Cuadratica\Cuadratica.vbproj", "{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Suma_promedio", "Suma_promedio\Suma_promedio.vbproj", "{91F4EB79-0837-434F-93FC-B640614154A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F4EB79-0837-434F-93FC-B640614154A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F4EB79-0837-434F-93FC-B640614154A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F4EB79-0837-434F-93FC-B640614154A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F4EB79-0837-434F-93FC-B640614154A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
