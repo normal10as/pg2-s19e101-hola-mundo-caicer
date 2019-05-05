@@ -1,0 +1,3 @@
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\netcoreapp2.1\Refrase.vbproj.CoreCompileInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\netcoreapp2.1\Refrase.AssemblyInfoInputs.cache
+C:\Users\Caicer\Source\Repos\normal10as\pg2-s19e101-hola-mundo-caicer\Variables\Refrase\obj\Debug\netcoreapp2.1\Refrase.AssemblyInfo.vb

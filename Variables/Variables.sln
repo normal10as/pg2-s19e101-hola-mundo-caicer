@@ -5,31 +5,33 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_consola", "variables_consola\variables_consola.vbproj", "{0B237443-021A-480C-BC07-F5395A01A24C}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "variables_tipos", "variables_tipos\variables_tipos.vbproj", "{CAAE4600-A817-404D-B4AE-55FEE1846C81}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_tipos", "variables_tipos\variables_tipos.vbproj", "{CAAE4600-A817-404D-B4AE-55FEE1846C81}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Concatenación", "Concatenación\Concatenación.vbproj", "{0757D3E5-D37A-48B8-8123-93B4A9ED32CA}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Concatenación", "Concatenación\Concatenación.vbproj", "{0757D3E5-D37A-48B8-8123-93B4A9ED32CA}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Aritmética", "Aritmética\Aritmética.vbproj", "{EBE54032-D6BE-47AB-91A0-72D7443CCF43}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Aritmética", "Aritmética\Aritmética.vbproj", "{EBE54032-D6BE-47AB-91A0-72D7443CCF43}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cuadratica", "Cuadratica\Cuadratica.vbproj", "{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Cuadratica", "Cuadratica\Cuadratica.vbproj", "{18BF7FF0-370F-42CA-BAF3-5060EC96FD3A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Suma_promedio", "Suma_promedio\Suma_promedio.vbproj", "{91F4EB79-0837-434F-93FC-B640614154A2}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Suma_promedio", "Suma_promedio\Suma_promedio.vbproj", "{91F4EB79-0837-434F-93FC-B640614154A2}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "equivalencia_dias", "equivalencia_dias\equivalencia_dias.vbproj", "{772D639C-5806-40B4-B67C-CE52226B415E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "equivalencia_dias", "equivalencia_dias\equivalencia_dias.vbproj", "{772D639C-5806-40B4-B67C-CE52226B415E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tabla_booleana", "Tabla_booleana\Tabla_booleana.vbproj", "{B6852CA9-352C-47FB-974B-504525FEC418}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Tabla_booleana", "Tabla_booleana\Tabla_booleana.vbproj", "{B6852CA9-352C-47FB-974B-504525FEC418}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Interes", "Interes\Interes.vbproj", "{7C3CE292-A6FB-4DC8-ABAF-E0D7333F9B44}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Interes", "Interes\Interes.vbproj", "{7C3CE292-A6FB-4DC8-ABAF-E0D7333F9B44}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Resto_division", "Resto_division\Resto_division.vbproj", "{58FFCD9F-4140-436A-9914-5CBC16CF69A8}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Resto_division", "Resto_division\Resto_division.vbproj", "{58FFCD9F-4140-436A-9914-5CBC16CF69A8}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Matematica1", "Matematica1\Matematica1.vbproj", "{50DEBCAC-B2EC-48D2-97AE-2E9EDB053292}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Matematica1", "Matematica1\Matematica1.vbproj", "{50DEBCAC-B2EC-48D2-97AE-2E9EDB053292}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Redondeo", "Redondeo\Redondeo.vbproj", "{9A3E25DA-DCE2-4E14-88F8-830A77836E46}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Redondeo", "Redondeo\Redondeo.vbproj", "{9A3E25DA-DCE2-4E14-88F8-830A77836E46}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mayor", "Mayor\Mayor.vbproj", "{7627DD5C-59D0-46FE-91BC-A7EA3EF878BC}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Mayor", "Mayor\Mayor.vbproj", "{7627DD5C-59D0-46FE-91BC-A7EA3EF878BC}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cadenas1", "Cadenas1\Cadenas1.vbproj", "{877FC35D-9B47-4D7F-B51B-82D9D0666DFD}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Cadenas1", "Cadenas1\Cadenas1.vbproj", "{877FC35D-9B47-4D7F-B51B-82D9D0666DFD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Refrase", "Refrase\Refrase.vbproj", "{C06CF043-34DB-400F-A1A4-9F8634842E28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{877FC35D-9B47-4D7F-B51B-82D9D0666DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{877FC35D-9B47-4D7F-B51B-82D9D0666DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{877FC35D-9B47-4D7F-B51B-82D9D0666DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06CF043-34DB-400F-A1A4-9F8634842E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06CF043-34DB-400F-A1A4-9F8634842E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06CF043-34DB-400F-A1A4-9F8634842E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06CF043-34DB-400F-A1A4-9F8634842E28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
