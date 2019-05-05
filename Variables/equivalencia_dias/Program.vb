@@ -12,7 +12,8 @@ Module Program
         Console.WriteLine("ingrese numero: ")
         numero = Console.ReadLine()
         Console.WriteLine("semana N: ")
-        Console.WriteLine(numero / DiaSemana)
+        DiaSemana = numero / DiaSemana
+        Console.WriteLine(DiaSemana)
         Console.WriteLine("horas N: ")
         Console.WriteLine(numero * HoraDia)
         Console.WriteLine("minutos N: ")
