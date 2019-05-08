@@ -1,6 +1,4 @@
 Imports System
-Imports System.Math
-
 Module Program
     Sub Main()
         Dim monto, porcentaje, interes As Decimal
